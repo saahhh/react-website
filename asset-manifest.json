@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.af52c69f.css",
-    "main.js": "/static/js/main.e3162659.js",
+    "main.css": "/static/css/main.d1144567.css",
+    "main.js": "/static/js/main.afae1de1.js",
     "static/js/787.a073d82e.chunk.js": "/static/js/787.a073d82e.chunk.js",
+    "static/media/망곰.png": "/static/media/망곰.a8eacb78b78c6e8f893a.png",
     "static/media/mang.jpg": "/static/media/mang.f324361df6f0cbb61fb9.jpg",
     "index.html": "/index.html",
-    "main.af52c69f.css.map": "/static/css/main.af52c69f.css.map",
-    "main.e3162659.js.map": "/static/js/main.e3162659.js.map",
+    "main.d1144567.css.map": "/static/css/main.d1144567.css.map",
+    "main.afae1de1.js.map": "/static/js/main.afae1de1.js.map",
     "787.a073d82e.chunk.js.map": "/static/js/787.a073d82e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af52c69f.css",
-    "static/js/main.e3162659.js"
+    "static/css/main.d1144567.css",
+    "static/js/main.afae1de1.js"
   ]
 }
